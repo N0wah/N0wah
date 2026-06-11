@@ -67,7 +67,7 @@ Je passe actuellement mon diplôme de **Concepteur Développeur de Solutions Inf
 > et interface de chat pour interroger la documentation en langage naturel.
 
 **Stack :** Python · LangChain · ChromaDB · OpenAI API · Streamlit  
-**[📂 Repo]()** pas encore disponible
+**📂 Repo en cours de développement**
 
 ---
 
