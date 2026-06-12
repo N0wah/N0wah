@@ -2,7 +2,7 @@
 
 # Salut, moi c'est Noah 👋
 
-### Développeur Fullstack · Ingénieur IA · Basé à Sophia Antipolis 🇫🇷
+### Développeur Fullstack · Ingénieur IA
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noah-mollet)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://noahmollet-portfolio.vercel.app/)
@@ -16,7 +16,7 @@
 
 Je suis développeur fullstack avec une spécialisation croissante en **ingénierie IA** — pipelines RAG, agents LLM, et intégration de modèles en production.
 
-Je passe actuellement mon diplôme de **Concepteur Développeur de Solutions Informatiques (RNCP niveau 6)** à Ynov Sophia Antipolis, je cherche à construire des systèmes intelligents qui résolvent de vrais problèmes.
+Je passe actuellement mon diplôme de **Concepteur Développeur de Solutions Informatiques (RNCP niveau 6)** à Ynov Sophia Antipolis.
 
 - 🔭 Je recherche actuellement une alternance pour mon **Master Intégration IA & Développement**
 - 🌱 J'apprends : **Python · APIs LLM · bases du RAG (Retrieval-Augmented Generation)**
@@ -110,7 +110,7 @@ Je passe actuellement mon diplôme de **Concepteur Développeur de Solutions Inf
 
 Tu as un projet IA, une mission dev, ou juste envie d'échanger ?
 
-**noah68mollet@gmail.com** · [LinkedIn](https://linkedin.com/in/noah-mollet) · Sophia Antipolis, France
+**noah68mollet@gmail.com** · [LinkedIn](https://linkedin.com/in/noah-mollet), France
 
 ---
 
