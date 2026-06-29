@@ -71,6 +71,16 @@ Je passe actuellement mon diplôme de **Concepteur Développeur de Solutions Inf
 
 ---
 
+### ⛏️ MinecraftMCP — Serveur MCP pour contrôler Minecraft via Claude
+> Serveur MCP (Model Context Protocol) connectant Claude à un serveur Minecraft via RCON.
+> Expose des outils de lecture (joueurs, position, santé, inventaire) et d'écriture
+> (commandes, items, broadcast) pilotables en langage naturel depuis Claude Desktop.
+
+**Stack :** Python · FastMCP · RCON · Claude Desktop  
+**[📂 Repo](https://github.com/N0wah/MinecraftMCP)**
+
+---
+
 ### 🃏 BlackjackMultiplayer — Jeu multijoueur TCP en temps réel
 > Serveur C# gérant plusieurs clients simultanément via TCP, avec synchronisation d'état et logique de jeu complète (dealer, As, tours).
 
