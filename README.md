@@ -92,7 +92,7 @@ Je passe actuellement mon diplôme de **Concepteur Développeur de Solutions Inf
 ### 🍽️ ReservIt — Plateforme de réservation de restaurants
 > Application web fullstack de réservation avec gestion des disponibilités, authentification et interface admin.
 
-**Stack :** JavaScript · Node.js · MySQL
+**Stack :** JavaScript · Node.js · MySQL  
 **[📂 Repo](https://github.com/N0wah/ReservIt_Project)**
 
 ---
