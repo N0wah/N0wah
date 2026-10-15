@@ -77,7 +77,7 @@ Je passe actuellement mon diplôme de **Concepteur Développeur de Solutions Inf
 > (commandes, items, broadcast) pilotables en langage naturel depuis Claude Desktop.
 
 **Stack :** Python · FastMCP · RCON · Claude Desktop  
-**[📂 Repo](https://github.com/N0wah/MinecraftMCP)**
+**[📂 MCP](https://www.agensi.io/skills/minecraftmcp)**
 
 ---
 
